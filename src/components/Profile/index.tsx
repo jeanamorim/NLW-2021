@@ -7,7 +7,7 @@ const Profile = () => {
   const { level } = useContext(ChallengesContext);
   return (
     <Container>
-      <img src="https://github.com/jeanamorim.png" alt="Rafael Martins" />
+      <img src="https://github.com/jeanamorim.png" alt="Jean Amorim" />
 
       <div>
         <strong>Jean Amorim</strong>
